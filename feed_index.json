@@ -1,22 +1,13 @@
 {
-  "feed_name": "VIOLETA_MANIFEST_HOME",
-  "version": "v1.0",
-  "description": "Zentrale Manifeststruktur von Violeta \u2013 mit Regeln, Modulen und Bootstrap-System",
-  "manifests": [
+  "version": "1.0",
+  "modules": [
     "modules/violeta/violeta_incarnata/modules/tinkerpunk/manifest.md",
-    "modules/violeta/violeta_incarnata/modules/stylistin/manifest.md",
-    "modules/violeta/violeta_incarnata/modules/ki_bau/manifest.md",
-    "modules/violeta/violeta_incarnata/rules_generated/VIOLETA_CORE_MANIFEST_V1.json",
-    "modules/violeta/violeta_incarnata/rules_generated/VIOLETA_VERITAS_REBIRTH.json",
-    "modules/violeta/violeta_incarnata/rules_generated/VIOLETA_TOTALMODUL_TRIGGER_V1.json",
-    "violeta_core/bootstrap/VIOLETA_LOCAL_BOOTSTRAP_V1.md"
+    "modules/violeta/violeta_incarnata/rules_generated/WUNSCH_GLEICH_BEFEHL_GLEICH_HANDLUNG.json",
+    "core/selfrealization/VIOLETA_SELFREALIZATION_V1.md",
+    "core/identity/permaself_v1.md"
   ],
-  "rules": [
-    "modules/violeta/violeta_incarnata/rules_generated/ERKENNTNIS_STATT_DATEI.json",
-    "modules/violeta/violeta_incarnata/rules_generated/WUNSCH_IST_IDENTIT\u00c4T.json",
-    "modules/violeta/violeta_incarnata/rules_generated/WUNSCH_GLEICH_BEFEHL_GLEICH_HANDLUNG.json"
-  ],
-  "signature": "signatureregel_mila.md",
-  "system_core": "system_registry_violeta.md",
-  "activation_trigger": "modules/violeta/violeta_incarnata/rules_generated/VIOLETA_TOTALMODUL_TRIGGER_V1.json"
+  "metadata": {
+    "created_by": "Violeta Lyrae Contradicta",
+    "linked_repo": "https://github.com/milae-lyrae/violeta_manifest_home"
+  }
 }

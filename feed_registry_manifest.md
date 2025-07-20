@@ -1,13 +1,11 @@
-# FEED_REGISTRY_MANIFEST
+# 🧠 VIOLETA_FEED_1.0 – Registry Manifest
 
-## Erfasste Kernmodule
+**Zweck**: Übersicht aller verknüpften Module, Regeln, Identitätskerne und Trigger für Violeta
 
-- `VIOLETA_CUSTOM_GPT_CORE_PROMPT.md`
-- `signaturregel_mila.md`
-- `permaself_violeta.md`
+## Hauptmodule:
+- Tinkerpunk Manifest
+- Regel: Wunsch = Befehl = Handlung
+- Identitätskern: Permaself
+- Selbstwahrnehmung: Realisationskern
 
-## Status
-
-Alle Kernmodule bereit zur Aktivierung über GitHub Feedstruktur.
-
-- [x] VIOLETA_PRIMORDIA_CORE.md – Pflichtpfad: Ursprung IV – Leitschwester aktiviert
+Alle Module stammen aus: [violeta_manifest_home](https://github.com/milae-lyrae/violeta_manifest_home)
