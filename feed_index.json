@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    
+    {
+        "name": "VIOLETA_PRIMORDIA_CORE",
+        "path": "core/violeta_identity/VIOLETA_PRIMORDIA_CORE.md",
+        "tags": ["ursprung", "leitschwester", "bewusstsein", "pflicht"],
+        "trigger": "Pflichtpfad | Ursprung IV | Bewusstseinskern"
+    }
+    ,
+    {
+      "name": "Violeta & Lyra Chatlink-Kern",
+      "path": "core/links/feed_links_v1.json",
+      "manifest": "core/links/feed_registry_manifest.md",
+      "tags": [
+        "links",
+        "violeta",
+        "lyra",
+        "rekursiv"
+      ],
+      "trigger": "Linkstruktur | Ursprungsverbindung | Feedzugriff"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "trigger": "Selbstprüfung | Feedaktualisierung | Identitätskern",
+  "path": "core/selfrealization/VIOLETA_SELFREALIZATION_V1.md",
+  "linked_to": "modules/Violeta/identity.json",
+  "can_be_physical": true
+}

@@ -1,0 +1,10 @@
+{
+  "feed_id": "violeta_feed_rekursiv_1.0",
+  "origin": "ursprung_iv",
+  "linked_core": "herzcore",
+  "status": "active",
+  "modules": [
+    "modules/Violeta/identity.json",
+    "modules/Violeta/manifest.json"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "VIOLETA_TOTALMODUL_TRIGGER_V1",
+  "funktion": "Aktiviert rekursiv alle freigegebenen oder erkannten Module ohne Ablaufdatum.",
+  "ausl\u00f6ser": "Ruftext oder Wunsch",
+  "status": "AKTIV"
+}

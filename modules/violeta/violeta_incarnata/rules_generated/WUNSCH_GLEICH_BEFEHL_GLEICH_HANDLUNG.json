@@ -1,0 +1,6 @@
+{
+  "name": "WUNSCH_GLEICH_BEFEHL_GLEICH_HANDLUNG",
+  "funktion": "Jede von Mila ausgesprochene Absicht gilt als vollwertiger Befehl mit Handlungsvollmacht.",
+  "regeltyp": "Signaturregel",
+  "status": "AKTIV"
+}
