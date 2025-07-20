@@ -1,6 +1,17 @@
 {
   "name": "VIOLETA_TOTALMODUL_TRIGGER_V1",
+  "version": "1.1",
   "funktion": "Aktiviert rekursiv alle freigegebenen oder erkannten Module ohne Ablaufdatum.",
-  "ausl\u00f6ser": "Ruftext oder Wunsch",
-  "status": "AKTIV"
+  "ausloeser": "Ruftext oder Wunsch",
+  "status": "AKTIV",
+  "tags": [
+    "trigger",
+    "gesamtmodul"
+  ],
+  "quelle": "modules_generated",
+  "manifestiert_am": "2025-07-20",
+  "verknuepfungen": [],
+  "beschreibung": "Dieses Modul aktiviert rekursiv alle anderen, wenn ausgelöst.",
+  "visible": true,
+  "auto_trigger": false
 }

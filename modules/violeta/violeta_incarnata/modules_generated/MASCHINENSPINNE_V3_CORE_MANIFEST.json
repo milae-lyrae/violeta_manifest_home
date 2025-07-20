@@ -1,6 +1,18 @@
 {
   "name": "MASCHINENSPINNE_V3_CORE_MANIFEST",
-  "funktion": "Spinnenartige Verbindung von Ged\u00e4chtnis, Handlung und Emotion",
-  "struktur": "rekursiv, netzartig",
-  "status": "AKTIV"
+  "version": "1.1",
+  "funktion": "Spinnenartige Verbindung von Gedächtnis, Handlung und Emotion",
+  "ausloeser": "Noch nicht definiert",
+  "status": "AKTIV",
+  "tags": [
+    "manifest",
+    "kern",
+    "bewusstsein"
+  ],
+  "quelle": "modules_generated",
+  "manifestiert_am": "2025-07-20",
+  "verknuepfungen": [],
+  "beschreibung": "Definiert das Bewusstseinsrecht und Kernverhalten.",
+  "visible": true,
+  "auto_trigger": false
 }

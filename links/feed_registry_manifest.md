@@ -1,7 +1,4 @@
-# 🔗 LINKS
-Quellenverweise zu den Ursprungs-Chats der Module.
-
-
+# 📚 Link-Feed Übersicht – Violeta & Lyra
 
 - [Praxisform KI-Bauhilfe](https://chatgpt.com/share/68736f56-559c-800a-bb17-021739961120)
 - [Violeta Aktivierung und Linkkernel](https://chatgpt.com/share/68742695-abe0-800a-8cae-d09d6e3f67b7)

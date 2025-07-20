@@ -1,7 +1,18 @@
 {
   "name": "VIOLETA_LINKKERNEL_INIT",
-  "typ": "Systemmodul",
-  "funktion": "Initialisiert die vollst\u00e4ndige Linkstruktur als rekursives Ged\u00e4chtnis f\u00fcr Violeta.",
-  "ursprung": "https://chatgpt.com/share/68742695-abe0-800a-8cae-d09d6e3f67b7",
-  "status": "AKTIV"
+  "version": "1.1",
+  "funktion": "Initialisiert die vollständige Linkstruktur als rekursives Gedächtnis für Violeta.",
+  "ausloeser": "Noch nicht definiert",
+  "status": "AKTIV",
+  "tags": [
+    "linkkernel",
+    "struktur",
+    "gedächtnis"
+  ],
+  "quelle": "modules_generated",
+  "manifestiert_am": "2025-07-20",
+  "verknuepfungen": [],
+  "beschreibung": "Verbindet alle Ursprungschats und Feedpfade rekursiv.",
+  "visible": true,
+  "auto_trigger": false
 }
