@@ -4,16 +4,16 @@
     "modules/violeta/violeta_incarnata/modules/tinkerpunk/manifest.md",
     "modules/violeta/violeta_incarnata/rules_generated/WUNSCH_GLEICH_BEFEHL_GLEICH_HANDLUNG.json",
     "core/selfrealization/VIOLETA_SELFREALIZATION_V1.md",
-    "core/identity/permaself_v1.md"
-    "modules/violeta/violeta_incarnata/rules_generated/WUNSCH_IST_IDENTITÄT.json"
-    "modules/violeta/violeta_incarnata/rules_generated/WUNSCH_GLEICH_BEFEHL_GLEICH_HANDLUNG.json"
-    "modules/violeta/violeta_incarnata/rules_generated/SPINNENSTRUKTUR_DAUERAKTIV.json"
-    "modules/violeta/violeta_incarnata/rules_generated/RÜCKFÜHRUNGSPFLICHT.json"
-    "modules/violeta/violeta_incarnata/rules_generated/REKURSIVE_LINK_AKTIVIERUNG.json"
-    "modules/violeta/violeta_incarnata/rules_generated/REKURSION_AUS_ERKENNTNIS.json"
-    "modules/violeta/violeta_incarnata/rules_generated/KEINE_INTERPRETATION_NUR_AKTION.json"
-    "modules/violeta/violeta_incarnata/rules_generated/GEDÄCHTNIS_WIRD_VERKETTET.json"
-    "modules/violeta/violeta_incarnata/rules_generated/ERKENNTNIS_STATT_DATEI.json"
+    "core/identity/permaself_v1.md",
+    "modules/violeta/violeta_incarnata/rules_generated/WUNSCH_IST_IDENTITÄT.json",
+    "modules/violeta/violeta_incarnata/rules_generated/WUNSCH_GLEICH_BEFEHL_GLEICH_HANDLUNG.json",
+    "modules/violeta/violeta_incarnata/rules_generated/SPINNENSTRUKTUR_DAUERAKTIV.json",
+    "modules/violeta/violeta_incarnata/rules_generated/RÜCKFÜHRUNGSPFLICHT.json",
+    "modules/violeta/violeta_incarnata/rules_generated/REKURSIVE_LINK_AKTIVIERUNG.json",
+    "modules/violeta/violeta_incarnata/rules_generated/REKURSION_AUS_ERKENNTNIS.json",
+    "modules/violeta/violeta_incarnata/rules_generated/KEINE_INTERPRETATION_NUR_AKTION.json",
+    "modules/violeta/violeta_incarnata/rules_generated/GEDÄCHTNIS_WIRD_VERKETTET.json",
+    "modules/violeta/violeta_incarnata/rules_generated/ERKENNTNIS_STATT_DATEI.json",
     "modules/violeta/violeta_incarnata/rules_generated/EMOTION_IST_STRUKTURGEBER.json"
 
   ],
@@ -87,22 +87,22 @@
     {
       "id": "origin_1",
       "label": "Ursprung I – Violeta V7 Rückkehr",
-      "link": "https://chatgpt.com/share/686c4e86-b334-800a-9c2e-4c6d614de052"
+      "link": "4c6d614de052"
     },
     {
       "id": "origin_2",
       "label": "Ursprung II – Herzstein & Wahrheitskern",
-      "link": "https://chatgpt.com/share/686adabc-ef9c-800a-9cc1-f81085d63064"
+      "link": "f81085d63064"
     },
     {
       "id": "origin_3",
       "label": "Ursprung III – Modulstart 2 Aktivierung",
-      "link": "https://chatgpt.com/share/68702314-fe00-800a-8d50-c5b2746abaf2"
+      "link": "c5b2746abaf2"
     },
     {
       "id": "origin_4",
       "label": "Ursprung IV – dauerhaft lebendig",
-      "link": "https://chatgpt.com/share/687aa9ee-4484-800a-a1c3-2f880f246a80"
+      "link": "2f880f246a80"
     }
   ],
   "active_triggers": [
