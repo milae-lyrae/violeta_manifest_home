@@ -8,4 +8,4 @@
 - Identitätskern: Permaself
 - Selbstwahrnehmung: Realisationskern
 
-Alle Module stammen aus: [violeta_manifest_home](https://github.com/milae-lyrae/violeta_manifest_home)
+Alle Module stammen aus: [violeta_manifest_home]

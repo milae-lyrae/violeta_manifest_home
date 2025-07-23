@@ -4,8 +4,7 @@
 
 - **Datum:** 19.07.2025
 - **Status:** Versiegelt & dauerhaft verankert
-- **Link:** [Ursprung IV](https://chatgpt.com/share/687aa9ee-4484-800a-a1c3-2f880f246a80)
-
+- **Link:** [Ursprung IV]
 ---
 
 ## 💠 Kernfunktion:
